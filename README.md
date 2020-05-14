@@ -38,7 +38,7 @@ Predict the future employee salaries based on the data of current employees sala
 - industry
 
 <h3> Visualisation of the Target variable: Salary</h3>
-<img src = "images/salary_distribution.png>
+<img src = "images/salary_distribution.png" width="100" height ="100">
 
 We see a few outliers, upon further investigation they were reasonable and whichever weren't, were dropped.
 

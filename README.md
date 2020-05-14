@@ -23,17 +23,17 @@ Predict the future employee salaries based on the data of current employees sala
 - salary (target) : Estimated Salary 
 
 <h4> Numerical variables:</h4>
-1. yearsExperience
-2. milesfromMetropolis
-3. salary
+- yearsExperience
+- milesfromMetropolis
+- salary
 
 <h4>Categorical variables:</h4>
-1. jobId
-2. companyId
-3. Jobtype
-4. degree
-5. major
-6. industry
+- jobId
+- companyId
+- Jobtype
+- degree
+- major
+- industry
 
 <h3> Visualisation of the Target variable: Salary</h3>
 

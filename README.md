@@ -11,12 +11,10 @@ Predict the future employee salaries based on the data of current employees sala
 
 <h3> About the Dataset</h3>
 
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2
-jobId - The ID of the job. 
-companyId - The ID of the company 
+ Markup : 
+-jobId
+ - The ID of the job. 
+-companyId - The ID of the company 
 jobType - The description of the job 
 degree - The degree of the employee 
 major - The education field of the employee 

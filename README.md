@@ -23,11 +23,13 @@ Predict the future employee salaries based on the data of current employees sala
 - salary (target) : Estimated Salary 
 
 <h4> Numerical variables:</h4>
+
 - yearsExperience
 - milesfromMetropolis
 - salary
 
 <h4>Categorical variables:</h4>
+
 - jobId
 - companyId
 - Jobtype

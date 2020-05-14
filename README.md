@@ -12,28 +12,28 @@ Predict the future employee salaries based on the data of current employees sala
 <h3> About the Dataset</h3>
 
  
--jobId : The ID of the job. 
--companyId : The ID of the company 
--jobType : The description of the job 
--degree : The degree of the employee 
--major : The education field of the employee 
--industry : The field to which the company belongs 
--yearsExperience : The employee years of experience on the job
--milesFromMetropolis : The distance in miles, the employee lives away from his/her workplace 
--salary (target) : Estimated Salary 
+- jobId : The ID of the job. 
+- companyId : The ID of the company 
+- jobType : The description of the job 
+- degree : The degree of the employee 
+- major : The education field of the employee 
+- industry : The field to which the company belongs 
+- yearsExperience : The employee years of experience on the job
+- milesFromMetropolis : The distance in miles, the employee lives away from his/her workplace 
+- salary (target) : Estimated Salary 
 
 <h4> Numerical variables:</h4>
-1.yearsExperience
-2.milesfromMetropolis
-3.salary
+1. yearsExperience
+2. milesfromMetropolis
+3. salary
 
 <h4>Categorical variables:</h4>
-jobId
-companyId
-Jobtype
-degree
-major
-industry
+1. jobId
+2. companyId
+3. Jobtype
+4. degree
+5. major
+6. industry
 
 <h3> Visualisation of the Target variable: Salary</h3>
 

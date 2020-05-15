@@ -7,10 +7,13 @@ This Dataset consists of 3 files:
 3. Train_salaries.csv - consists of the target variable
 
 <h3> File description</h4>
+
 - Readme.md : This file.
 - Basic EDA : Exploratory Data Analysis of the training dataset to identify dependencies, correlation amoung features and target, and distribution of features and target.
 - Salary_prediction_modeling - Model building file
+
 <h3>Goal</h3>
+
 Predict the future employee salaries based on the data of current employees salaries by creating a robust machine learning model.
 
 <h3> About the Dataset</h3>
@@ -57,12 +60,20 @@ We see a few outliers, upon further investigation they were reasonable and which
 
 In general, we saw some correlation between the features and target as depicted below:
 
-The second file "Basic Modeling" consists of Feature Engineering and Model Building.
+The third file, Salary_prediction_modeling consists of data cleaning, feature engineering and model building.
 
 Three algorithms were picked for model building, and the model with the least MSE was selected as the final model.
 1. Linear Regression
 2. Random Forest Regressor
 3. Gradient Boosting Regressor
+
+Summary of MSE of all three models:
+
+| Model                        | MSE       |
+| -----------------------------|:----------| 
+| Linear Regression            | 386.97    | 
+| Random Forest Regressor      | 387.29    |   
+| Gradient Boosting Regressor  | 357.81  |   
 
 
 

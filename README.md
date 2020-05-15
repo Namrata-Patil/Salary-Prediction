@@ -44,11 +44,11 @@ We see a few outliers, upon further investigation they were reasonable and which
 
 <h4> Correlation between features and target</h4>
 
-<img src = "images/industry.png" width="500" height ="500">
-<img src = "images/Experience.png" width="800" height ="500">
-<img src = "images/major.png" width="800" height ="500">
-<img src = "images/Degree.png" width="800" height ="500">
-<img src = "images/Distance.png" width="800" height ="500">
+<img src = "images/industry.png" width="500" height ="300">
+<img src = "images/Experience.png" width="500" height ="300">
+<img src = "images/major.png" width="500" height ="300">
+<img src = "images/Degree.png" width="500" height ="300">
+<img src = "images/Distance.png" width="500" height ="300">
 
 
 In general, we saw some correlation between the features and target as depicted below:

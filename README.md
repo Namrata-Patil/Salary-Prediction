@@ -6,6 +6,10 @@ This Dataset consists of 3 files:
 2. Test_features.csv - consists of features similar to train_features.csv
 3. Train_salaries.csv - consists of the target variable
 
+<h3> File description</h4>
+- Readme.md : This file.
+- Basic EDA : Exploratory Data Analysis of the training dataset to identify dependencies, correlation amoung features and target, and distribution of features and target.
+- Salary_prediction_modeling - Model building file
 <h3>Goal</h3>
 Predict the future employee salaries based on the data of current employees salaries by creating a robust machine learning model.
 
